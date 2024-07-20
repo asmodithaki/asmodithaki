@@ -2,7 +2,7 @@
 - 👀 I’m interested in building AI powered products
 - 🌱 I’m currently learning how happiness works
 - 💞️ I’m looking to collaborate on all projects that I'd be putting up here
-- 📫 How to reach me asmodi@thurisalabs.com
+- 📫 How to reach me dev@sageserv.net
 
 <!---
 asmodithaki/asmodithaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
